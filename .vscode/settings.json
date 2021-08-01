@@ -1,0 +1,42 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "fstream": "cpp",
+        "future": "cpp",
+        "optional": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "thread": "cpp",
+        "tuple": "cpp",
+        "*.tcc": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Practice",
+            "database": "dharmesh_database",
+            "username": "Dharmesh",
+            "password": ""
+        }
+    ]
+}
